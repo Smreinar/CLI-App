@@ -14,5 +14,5 @@ in return will bring you back information about that movie.
 
 clone the repository to try it yourself!
 
-created by: Steven M Reinart Jr. 
+created by: Steven M Reinart Jr. <br>
 Email: stevenreinart123@gmail.com

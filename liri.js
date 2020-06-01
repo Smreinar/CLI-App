@@ -42,7 +42,7 @@ switch (action) {
     break;
 
     default: 
-    console.log("The 'Action' Commands are: 'spotify-this', 'movie-this', 'concert-this' and 'do-what-it-says'");
+    console.log("The 'Action' Commands are: 'spotify-this-song', 'movie-this', 'concert-this' and 'do-what-it-says' ex: 'Action' 'SearchName'");
     
     break;
    
@@ -133,7 +133,7 @@ function run(fundata){
         fundata2 = dataArr[3];
         pick(action2, fundata2);
         
-        //getting a 404 request fail with the code below. 'I'm Still being fixxed...'
+       //no live concert during test
         action3 = dataArr[4];
         fundata3 = dataArr[5];
         pick(action3, fundata3);

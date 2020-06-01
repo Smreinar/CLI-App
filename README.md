@@ -12,7 +12,7 @@ And last but not least, if you want to look up information for a movie then you 
 in return will bring you back information about that movie.
 
 
-CLick the link to go to the app. Remember To Have Fun and Enjoy! link: https://smreinar.github.io/CLI-App/
+clone the repository to try it yourself!
 
-created by: Steven Reinart 
+created by: Steven M Reinart Jr. 
 Email: stevenreinart123@gmail.com
